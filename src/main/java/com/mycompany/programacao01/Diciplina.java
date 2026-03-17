@@ -42,7 +42,7 @@ public class Diciplina {
     public void setEmenta(String _Ementa){
         Ementa = _Ementa;
     }
-    //////////
+    ///////////
     public String getObjetivoAtividade(){
         return ObjetivoAtividade;
     }
